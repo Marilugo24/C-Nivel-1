@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Signo-Zodiacal/1.0.0": {
+        "runtime": {
+          "Signo-Zodiacal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Signo-Zodiacal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
